@@ -4,7 +4,7 @@
 
 #### How I am ?
 
-- 🌱 I’m currently learning Dev.Web
+- 🌱 I’m currently studying software engineering at Estácio
 
   ##
 
